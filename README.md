@@ -1,1 +1,0 @@
-# mlops-goodreads-genre-classifier
