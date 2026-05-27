@@ -1,4 +1,5 @@
 pandas
+numpy
 torch
 transformers
 datasets
@@ -7,3 +8,7 @@ accelerate
 wandb
 huggingface_hub
 scikit-learn
+matplotlib
+seaborn
+requests
+gdown
