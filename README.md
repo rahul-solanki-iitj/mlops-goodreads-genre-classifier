@@ -21,5 +21,5 @@ The model was evaluated on a 20% test split. Here are the final metrics:
 
 ## Project Links
 - **Training Platform (Kaggle Notebook):** https://www.kaggle.com/code/rahulsolankijodhpur/mlops-assignment2
-- **Experiment Tracking (W&B Dashboard):** https://wandb.ai/rahul_solanki-prom-iit-rajasthan/huggingface?nw=nwuserrahul_solanki & https://wandb.ai/rahul_solanki-prom-iit-rajasthan/mlops-assignment2
+- **Experiment Tracking (W&B Dashboard):** https://wandb.ai/rahul_solanki-prom-iit-rajasthan/mlops-assignment2/reports/Untitled-Report--VmlldzoxNzAzMjMxNg?accessToken=9mupvcl2m1pv1880ermqah87zpq3p55almasuc3eii1bca2msfmla4p463x2gbz8
 - **Deployed Model (Hugging Face):** https://huggingface.co/rahul-solanki/distilbert-goodreads-genres
